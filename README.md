@@ -21,6 +21,7 @@ Este proyecto es una suite de pruebas automatizadas para la aplicación Urban Ro
 2. **Selenium**: Instala Selenium usando pip:
    ```bash
    pip install selenium
+   pip install pytest
    
-3. Ruta: pytest\projects\qa-project-Urban-Routes-es\main.py
-4. pytest main.py
+
+3. Ejecución de prueba: pytest main.py
